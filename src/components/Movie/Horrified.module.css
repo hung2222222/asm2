@@ -1,0 +1,17 @@
+.horrified {
+    overflow: scoroll;
+animation: alternate-reverse;
+background-color: rgb(35, 33, 33);
+border: 1px solid red;
+
+}
+.horrified img {
+ border-radius: 10px;
+    height:15rem;
+    width: 15rem;
+    margin: 2px;
+}
+
+.horrified h2 {
+    color: white;
+}

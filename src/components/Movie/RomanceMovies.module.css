@@ -1,0 +1,17 @@
+.romance {
+    overflow: scoroll;
+animation: alternate-reverse;
+background-color: rgb(35, 33, 33);
+border: 1px solid rgb(26, 12, 90);
+
+}
+.romance img {
+ border-radius: 10px;
+    height:15rem;
+    width: 15rem;
+    margin: 2px;
+}
+
+.romance h2 {
+    color: white;
+}

@@ -1,0 +1,17 @@
+.comedy {
+    overflow: scoroll;
+animation: alternate-reverse;
+background-color: rgb(35, 33, 33);
+border: 1px solid red;
+
+}
+.comedy img {
+ border-radius: 10px;
+    height:15rem;
+    width: 15rem;
+    margin: 2px;
+}
+
+.comedy h2 {
+    color: white;
+}

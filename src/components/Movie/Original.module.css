@@ -1,0 +1,13 @@
+.original {
+    overflow: scoroll;
+    animation: alternate-reverse;
+    background-color: rgb(47, 44, 44);
+    border: 1px solid red;
+    
+}
+.original img {
+    width:15rem;
+    height: 15rem;
+border-radius: 10px;
+    margin: 2px;
+}

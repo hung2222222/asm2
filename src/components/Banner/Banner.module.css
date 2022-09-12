@@ -1,0 +1,9 @@
+.banner {
+    border: 1px solid royalblue;
+    padding: 40px 0;
+    /* background-color: blue; */
+
+}
+.banner img {
+    width: 100%;
+}
