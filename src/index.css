@@ -17,3 +17,14 @@ code {
 .col-8 {
   border: 1px solid black;
 }
+.navba {
+  position: fixed;
+  left: 0;
+  height: 80px;
+}  
+ .invalid{
+  position: fixed;
+  left: 0;
+  height: 80px;
+  background-color: red;
+} 

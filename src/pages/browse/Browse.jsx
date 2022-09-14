@@ -41,6 +41,7 @@
 //     </React.Fragment>
 //   );
 // }
+import React from "react";
 
 import Original from "../../components/Movie/Original";
 import NavBa from "../../components/NavBa/NavBa";
@@ -63,7 +64,7 @@ function Browse() {
 
   // }
   return (
-    <div className="app">
+    <React.Fragment>
        
      <div>
        <NavBa />
@@ -79,7 +80,7 @@ function Browse() {
         <Horrified />
         <RomanceMovies />
         <Documentaries />
-      </div>
+      </React.Fragment>
   );
 }
 

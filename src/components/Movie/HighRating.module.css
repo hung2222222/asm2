@@ -3,7 +3,7 @@
 animation: alternate-reverse;
 background-color: rgb(35, 33, 33);
 border: 1px solid red;
-
+/* overflow:scroll; */
 }
 .highRating img {
  border-radius: 10px;

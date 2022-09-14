@@ -1,13 +1,19 @@
 .original {
-    overflow: scoroll;
-    animation: alternate-reverse;
-    background-color: rgb(47, 44, 44);
-    border: 1px solid red;
-    
+  
+    /* animation: alternate-reverse; */
+    background-color:rgba(0, 0, 0, 30);
+    height: 20rem;
+  padding-top: 40px;
+
 }
 .original img {
-    width:15rem;
+    width:10rem;
     height: 15rem;
-border-radius: 10px;
-    margin: 2px;
+padding: 5px;
+
 }
+.original img:hover {
+    width: 11rem;
+    height: 16rem;
+}
+

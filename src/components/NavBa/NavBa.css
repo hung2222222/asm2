@@ -1,0 +1,65 @@
+.navba {
+  position: fixed;
+
+top: 30px;
+  width: 100%;
+  height: 80px;
+  /* background: rgba(0,0,0,1); */
+  /* padding: 0 100px ; */
+
+}
+.navba p {
+  float: left;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: -20px;
+  color: red;
+  position: fixed;
+  margin-left: 20px;
+}
+
+.navba svg {
+  display: flex;
+  justify-content: flex-end;
+  float: right;
+  width: 30px;
+  top: 30px;
+  margin-top: -6px;
+  margin-right: 20px;
+}
+.app {
+  position: relative;
+  top: -20px;
+  background: rgba(0, 0, 0, 0.7);
+  width: 100%;
+  height: 30px;
+  opacity: 0.8;
+}
+
+ .invalid{
+  position: fixed;
+  z-index: 99;
+  width: 100%;
+  height: 70px;
+  background:rgb(15, 15, 15);
+  padding: 0 100px ;
+
+}
+.invalid p {
+  float: left;
+margin-left: -60px;
+  font-size: 30px;
+  font-weight: bold;
+  color: red;
+  margin-top: 12px;
+}
+.invalid svg {
+
+  justify-content: flex-end;
+  float: right;
+  width: 30px;
+  top: 10px;
+  margin-right: 1rem;
+ margin-top: 20px;
+ margin-right: -60px;
+}

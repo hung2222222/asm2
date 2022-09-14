@@ -4,13 +4,15 @@ animation: alternate-reverse;
 background-color: rgb(29, 28, 28);
 border: 1px solid red;
 padding-bottom: 1rem;
+  /* overflow-x: scroll; */
+
 }
 .trend img {
-  width:15rem;
+  width:10rem;
   height: 15rem;
   border-radius: 10px;
-  margin: 4px;
-box-shadow: 2px 0px 6px 5px rgba(70, 64, 64, 0.8);
+padding: 5px;
+/* box-shadow: 2px 0px 6px 5px rgba(70, 64, 64, 0.8); */
 }
 .trend h2 {
   color: white;
